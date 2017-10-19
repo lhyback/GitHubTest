@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dynamic>         
+         <object id="animal" class="com.wechatvr.training.model.Dog" />
+         <object id="people" class="com.wechatvr.training.model.People" startup-method="feedPet">
+                    <filed name="pet" value="animal" />
+         </object> 
+         
+</dynamic>
